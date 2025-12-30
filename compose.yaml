@@ -14,6 +14,6 @@ services:
     restart: always
 
   mealie:
-    image: ghcr.io/mealie-recipes/mealie:v2.7.1@sha256:708e9ffb843bafdcebf46ee35bb45d1b003518e8c204483a1da039b4076ef980
+    image: ghcr.io/mealie-recipes/mealie:v3.9.1@sha256:8c5c7765ca5f7f3070f08482aca8102c2b43193777fe958e06d86b153ec18f5f
     container_name: mealie
     restart: always
